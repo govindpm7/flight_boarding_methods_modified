@@ -1,0 +1,14 @@
+trial_id,method,shuffle_enabled,baggage_config,total_time_min,passengers
+20250506_200604,Random,TRUE,normal,32.62,96
+20250506_203348,Front-to-back,TRUE,normal,67.63,96
+20250506_205013,Front-to-back (4 groups),True,normal,46.47,96
+20250506_205216,Back-to-front,True,normal,57.02,96
+20250506_205404,Back-to-front,True,normal,59.42,96
+20250506_210952,Random,True,normal,31.65,96
+20250506_211117,Front-to-back,True,normal,70.22,96
+20250506_211233,Front-to-back (4 groups),True,normal,48.73,96
+20250506_211338,Back-to-front,True,normal,58.95,96
+20250506_211430,Back-to-front (4 groups),True,normal,44.15,96
+20250506_211519,Window-Middle-Aisle,True,normal,28.38,96
+20250506_211604,Steffen Perfect,True,normal,15.10,96
+20250506_211714,Steffen Modified,True,normal,34.75,96
